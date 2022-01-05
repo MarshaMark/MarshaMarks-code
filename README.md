@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MarshaMark
 - 👀 I’m interested in making a fps game
 - 🌱 I’m currently learning how to make a fps game
-- 💞️ I’m looking to collaborate on steam (especially L4d2(Left 4 dead 2) and portal 2)
+- 💞️ I’m looking to collaborate on steam (especially B4B(Back 4 Blood) and portal 2)
