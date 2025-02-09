@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @MarshaMark
-- 👀 I’m interested in making a fps game
-- 🌱 I’m currently learning how to make a fps game
-- 💞️ I’m looking to collaborate on steam (especially B4B(Back 4 Blood) and portal 2)
+- 👋 Hi, I’m @MarshaMark , You can also call me Tom, Tplaygame or Tplaygamr
+- 👀 I’m interested in making a lots of games, a specific few include, FPS games, Card games and RTS games
+- 🌱 I’m currently learning how to make a games in Unity
